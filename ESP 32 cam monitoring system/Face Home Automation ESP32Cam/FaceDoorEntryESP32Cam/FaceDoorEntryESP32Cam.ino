@@ -8,8 +8,8 @@
 #include "fr_forward.h"
 #include "fr_flash.h"
 
-const char* ssid = "OPPOReno8T5G";
-const char* password = "OPPO8T5G";
+const char* ssid = "****************";
+const char* password = "**************";
 
 #define ENROLL_CONFIRM_TIMES 5
 #define FACE_ID_SAVE_NUMBER 7
@@ -362,3 +362,4 @@ void loop() {
     fb = NULL;
   }
 }
+
