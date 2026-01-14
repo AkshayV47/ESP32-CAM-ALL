@@ -19,8 +19,8 @@
 #define Green 12
 #include "camera_pins.h"
 
-const char* ssid = "OPPOReno8T5G"; //Wifi Name SSID
-const char* password = "OPPO8T5G"; //WIFI Password
+const char* ssid = "**********"; //Wifi Name SSID
+const char* password = "******"; //WIFI Password
 
 void startCameraServer();
 
@@ -134,3 +134,4 @@ void loop() {
       digitalWrite(Red,HIGH);
       }
 }
+
